@@ -36,4 +36,5 @@ public protocol ChartDataProvider
     var data: ChartData? { get }
     
     var maxVisibleCount: Int { get }
+    /// 哈哈哈哈哈
 }
